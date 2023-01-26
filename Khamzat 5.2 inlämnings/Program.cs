@@ -8,7 +8,7 @@ namespace Uppgift_5._2_khamzat
         {
             try
             {
-
+                // sss
                 int[] tal = new int[3];
 
                 tal[0] = 2;
